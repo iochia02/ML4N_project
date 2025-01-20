@@ -1,4 +1,4 @@
-# ML4N_project
+# ML4N project - DDoS Attacks Detection and Characterization
 This project is developed by Braidotti Sara, Iorio Chiara, Pani Matteo and Sapia Cristian during the 2024 edition of the ML4N course in the Cybersecurity Master's degree at Politecnico di Torino.
 
 ## Files
